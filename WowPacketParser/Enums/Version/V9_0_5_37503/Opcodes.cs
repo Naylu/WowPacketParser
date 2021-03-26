@@ -1,8 +1,8 @@
 using WowPacketParser.Misc;
 
-namespace WowPacketParser.Enums.Version.V9_0_2_36639
+namespace WowPacketParser.Enums.Version.V9_0_5_37503
 {
-    public static class Opcodes_9_0_2
+    public static class Opcodes_9_0_5
     {
         public static BiDictionary<Opcode, int> Opcodes(Direction direction)
         {
